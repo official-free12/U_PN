@@ -1,0 +1,6 @@
+# USDT承兑商系统  第三方USDT支付系统（运营版12月份更新）
+
+系统带有2种支付接口:<br>一种纯USDT的支付接口，别的平台可以接入实现USDT币的充值提币<br>一种承兑商的模式，别的平台接入实现人民币充值（和交易员交易）<br>本系统是纯开源，不涉及任何加密代码，example.com。拍之前请联系卖家索要演示地址和账号，进行相关测试，代码是否是你需要的。测试好后在进行拍下，演示什么样给你的就是什么样。免费安装和部署USDT钱包对接服务，USDT钱包同步win需要大概20天左右，linux系统大概10天左右，钱包同步时间因为太长，所以不能等到钱包同步完成后才确认收货。钱包和网站部署好之后，钱包未同步完成的情况下，也是可以正常生成USDT的地址的，能正常生成USDT充值地址就代表网站和钱包对接正常，后续只需耐心等待钱包同步完成后方可使用其他功能，例如充值币提币等。<br>代码具有复制性，所以请看好测试好在拍，只要卖家发送了代码后并且提供安装和部署服务后就不能在退款。另usdt钱包和网站对接，不能等到同步完成后在确认收货，在安装好网站后，能正常生成地址视为卖家的服务已经完结。需在3天内确认收货。<br>拍下视为默认同意该条款内容。<br>本系统已更新至2024年11月25日，增加了三十多项代码升级与优化，相关客户已稳定运营中，详情请联系客服查看演示。<br>声明：本软件只用来学习交流，软件应用于本源码和无关。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/rr6Ex" style="color: red;">https://mega-file.org/rr6Ex</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
